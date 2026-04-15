@@ -1,0 +1,12 @@
+{
+  "name": "projeto-portifolio",
+  "version": "1.0.0",
+  "description": "Portfólio pessoal em HTML e CSS",
+  "scripts": {
+    "dev": "serve .",
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
