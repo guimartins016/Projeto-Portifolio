@@ -162,6 +162,10 @@ html {
     order: 1;
 }
 
+.projects-content .project-item:nth-child(5) {
+    margin-top: 80px;
+}
+
 .project-text-2 {
     text-align: right;
 }
@@ -198,15 +202,20 @@ html {
 }
 
 .project-item-2 {
-    background-image: url(./images/project-2.jpg);
+    background-image: url(./images/project-2.png);
 }
 
 .project-item-3 {
-    background-image: url(./images/project-3.jpg);
+    background-image: url(./images/project-3.png);
 }
 
 .project-item-4 {
-    background-image: url(./images/project-4.jpg);
+    background-image: url(./images/project-4.png);
+    background-position: center;
+}
+
+.project-item-5 {
+    background-image: url(./images/project-5.png);
     background-position: center;
 }
 
