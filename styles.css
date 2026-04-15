@@ -199,14 +199,17 @@ html {
 
 .project-item-1 {
     background-image: url(./images/project-1.jpg);
+    background-position: center;
 }
 
 .project-item-2 {
     background-image: url(./images/project-2.png);
+    background-position: center;
 }
 
 .project-item-3 {
     background-image: url(./images/project-3.png);
+    background-position: center;
 }
 
 .project-item-4 {
